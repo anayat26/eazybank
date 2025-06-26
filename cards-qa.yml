@@ -1,0 +1,13 @@
+
+
+build:
+  version: 2.0.0
+
+cards:
+  message: "Welcome to the cards Service-QA"
+  contactDetails:
+    developer: "Amit"
+    email: "Amit@abc.com"
+  onCallSupport:
+    -(512) 555-1212
+    -(512) 555-1213

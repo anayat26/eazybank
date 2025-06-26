@@ -1,0 +1,14 @@
+
+
+
+build:
+  version: 3.0.0
+
+cards:
+  message: "Welcome to the cards Service-PROD"
+  contactDetails:
+    developer: "Amit"
+    email: "Amit@abc.com"
+  onCallSupport:
+    -(512) 555-1212
+    -(512) 555-1213

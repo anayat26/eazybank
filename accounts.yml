@@ -1,0 +1,14 @@
+
+
+
+build:
+  version: 1.0.0
+
+accounts:
+  message: "Welcome to the Accounts Service"
+  contactDetails:
+    developer: "Amit"
+    email: "Amit@abc.com"
+  onCallSupport:
+    -(512) 555-1212
+    -(512) 555-1213
