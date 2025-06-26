@@ -8,7 +8,7 @@ build:
 accounts:
   message: "Welcome to the Accounts Service-PROD"
   contactDetails:
-    developer: "Amitab"
+    developer: "Amitab chan"
     email: "{cipher}77ce711e2223a8df3c708b19cbad66138cb9122faca1a0683fb94d097f47e4ef"
   onCallSupport:
     -(512) 555-1212
